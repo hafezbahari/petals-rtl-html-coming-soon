@@ -5,8 +5,8 @@ The template is offered for free use under the open source MIT license for any t
 
 FILE STRUCTURE
 - index.html holds the entire content
-- css/styles.css custom css styling
-- js/scripts.js custom js code
+- css/styles-rtl.css custom css styling
+- js/scripts-rtl.js custom js code
 - images folder contains all the images
 - The rest are files specific to different frameworks and dependencies
 
@@ -17,6 +17,7 @@ FRAMEWORKS & DEPENDENCIES
 - jQuery Easing https://jqueryui.com/easing/
 - The Final Countdown http://hilios.github.io/jQuery.countdown/
 - Font Awesome for icons https://fontawesome.com/
+- Font Vazir https://rastikerdar.github.io/vazir-font/
 
 
 IMAGES
@@ -27,13 +28,14 @@ All images are included in the download package and can be reused in your projec
 CREDITS
 Special thank you for:
 - Images by Pexels: https://www.svgbackgrounds.com/
+- Font Vazir by Saber Rastikerdar: https://github.com/rastikerdar/vazir-font
 
 
 -----------------------------------------------------
 
-
+scripts-rtl.js نحوه تغییر تایمر در فایل 
 Update The Date Of The Countdown Timer
-- Open for editing js/scripts.js
+- Open for editing js/scripts-rtl.js
 - Find the section /* Countdown Timer - The Final Countdown */
 - Then find the following line of code:
 $('#clock').countdown('2021/12/27 08:50:56') /* change here your "countdown to" date */
