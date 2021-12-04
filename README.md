@@ -34,6 +34,8 @@ Special thank you for:
 -----------------------------------------------------
 
 scripts-rtl.js نحوه تغییر تایمر در فایل 
+
+
 Update The Date Of The Countdown Timer
 - Open for editing js/scripts-rtl.js
 - Find the section /* Countdown Timer - The Final Countdown */
